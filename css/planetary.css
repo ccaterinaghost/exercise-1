@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'planetary';
-  src: url('../font/planetary.eot?98437786');
-  src: url('../font/planetary.eot?98437786#iefix') format('embedded-opentype'),
-       url('../font/planetary.woff?98437786') format('woff'),
-       url('../font/planetary.ttf?98437786') format('truetype'),
-       url('../font/planetary.svg?98437786#planetary') format('svg');
+  src: url('../fonts/planetary.eot?98437786');
+  src: url('../fonts/planetary.eot?98437786#iefix') format('embedded-opentype'),
+       url('../fonts/planetary.woff?98437786') format('woff'),
+       url('../fonts/planetary.ttf?98437786') format('truetype'),
+       url('../fonts/planetary.svg?98437786#planetary') format('svg');
   font-weight: normal;
   font-style: normal;
 }
