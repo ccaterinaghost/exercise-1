@@ -59,10 +59,6 @@ a:visited{
 	color: #ffffff;
 }
 
-a:hover{
-	color: #000;
-    transform: rotate(7deg); /* Chrome, Safari, Opera */
-}
 
 
 
