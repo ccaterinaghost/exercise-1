@@ -44,13 +44,48 @@ h2{
 	margin: 0 auto;
 }
 
-.icon-symbol,
-.icon-symbol-1,
-.icon-symbol-2,
+.icon-symbol{
+	padding: 0.5em;
+	border: solid 2px rgba(0,0,0,0.5);
+	border-radius: 300px;
+	transition: color 1s ease;
+}
+
+.icon-symbol:hover{
+	color: #000;
+}
+
+.icon-symbol-1{
+	padding: 0.5em;
+	border: solid 2px rgba(0,0,0,0.5);
+	border-radius: 300px;
+	transition: scale 1s ease;
+}
+
+.icon-symbol-1:hover{
+	scale: 2;
+}
+
+.icon-symbol-2{
+	padding: 0.5em;
+	border: solid 2px rgba(0,0,0,0.5);
+	border-radius: 300px;
+	transition: height 1s ease-out;
+}
+
+.icon-symbol-2:hover{
+	height: 2em;
+}
+
 .icon-symbol-3{
 	padding: 0.5em;
 	border: solid 2px rgba(0,0,0,0.5);
 	border-radius: 300px;
+	transition: border-color 0.25s ease-in;
+}
+
+.icon-symbol-3:hover{
+	border-color: #fff;
 }
 
 a:link,
@@ -58,10 +93,6 @@ a:visited{
 	text-decoration: none;
 	color: #ffffff;
 }
-
-
-
-
 
 
 
