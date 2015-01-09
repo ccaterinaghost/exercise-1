@@ -59,18 +59,18 @@ h2{
 	padding: 0.5em;
 	border: solid 2px rgba(0,0,0,0.5);
 	border-radius: 300px;
-	transition: scale 1s ease;
+	transition: transform 1s ease;
 }
 
 .icon-symbol-1:hover{
-	scale: 2;
-}
+	transform: scale(1.1);
+	}
 
 .icon-symbol-2{
 	padding: 0.5em;
 	border: solid 2px rgba(0,0,0,0.5);
 	border-radius: 300px;
-	transform: all 1s ease-out;
+	transform: all 1s ease;
 }
 
 .icon-symbol-2:hover{
