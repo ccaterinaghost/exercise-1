@@ -74,7 +74,7 @@ h2{
 }
 
 .icon-symbol-2:hover{
-	transform: rotate(180);
+	transform: rotate(180deg);
 }
 
 .icon-symbol-3{
