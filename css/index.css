@@ -70,11 +70,11 @@ h2{
 	padding: 0.5em;
 	border: solid 2px rgba(0,0,0,0.5);
 	border-radius: 300px;
-	transition: height 1s ease-out;
+	transform: all 1s ease-out;
 }
 
 .icon-symbol-2:hover{
-	height: 2em;
+	transform: rotate(180);
 }
 
 .icon-symbol-3{
